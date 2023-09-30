@@ -21,6 +21,7 @@ Este comando entrenará el modelo y evaluará su rendimiento en el conjunto de p
 Resultados
 
 El modelo obtuvo un error cuadrático medio (RMSE) de 0,0258 en el conjunto de prueba. Esto significa que el modelo predice la demanda de energía con un error promedio de 25,8 kW.
+![image](https://github.com/Barbathoss/Neurona_LSTM_prediccion_demanda_energia_COES/assets/81935896/f5ca3382-93c0-45e8-a00c-540dd3f1f998)
 
 Mejoras potenciales
 
