@@ -10,13 +10,10 @@ Python 3.8 o superior
 TensorFlow 2.8 o superior
 NumPy
 Pandas
+
 Instalación
-
 pip install -r requirements.txt
-Uso
 
-python main.py
-Este comando entrenará el modelo y evaluará su rendimiento en el conjunto de prueba. El modelo se guardará en el directorio model5/.
 
 Resultados
 
